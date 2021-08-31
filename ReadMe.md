@@ -1,11 +1,9 @@
-# Income Inequality Project
+# Network Moodel
 Hi everybody, here's the 3rd update, I'll explain all the files
-Note, i'm still kinda new to github so i'm not sure if this works because I have the packages installed
 
 To Run: 
     
     python get_graph.py <command line argument>
-Note Please do not exceed 60 or so nodes, as it starts taking a really long time
 
 Command line arguments(Capitalization Matters):
     
@@ -19,8 +17,7 @@ Basically gets inputs from user, on the starting number nodes and
 increments up by the input increment until the total number of nodes        
 It creates an Min spanning tree on of the nodes at random and randomly adds edges 
 with makeRandomEdge     
-Then it collects all the data and graphs 1 of the 3 measures above. I'll try to add the
-capability to mix and match and graph multiple later
+Then it collects all the data and graphs 1 of the 3 measures above.
 
 
 **Robustness:**
