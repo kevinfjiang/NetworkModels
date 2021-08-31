@@ -28,3 +28,6 @@ netwwork connectivity from this paper: https://arxiv.org/abs/0802.2564
 **Efficiency:**
 The efficiency SPECON paper from 2004 that Prof gave us.
 and newly introoduced efficiency papers found by Dylan
+
+
+Note other code is stored in upstream repossitory
