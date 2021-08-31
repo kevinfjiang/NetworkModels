@@ -5,7 +5,7 @@ To Run:
     
     python get_graph.py <command line argument>
 
-Command line arguments(Capitalization Matters):
+Command line arguments:
     
     'R' for Robustness, no quotes
     'N' for Network Connectivity
