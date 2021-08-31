@@ -1,6 +1,4 @@
-# Network Moodel
-Hi everybody, here's the 3rd update, I'll explain all the files
-
+# Network Model
 To Run: 
     
     python get_graph.py <command line argument>
